@@ -2,7 +2,7 @@
 Breve descrição sobre todos os projetos do meu github
 
 
-Utilizo o github para armazenar os códigos dos meus projetos pessoais. Não tenho problema algum em deixá-los públicos, pelo contrário adoraria que eles chegassem para mais pessoas ainda, uma ideia tal como um pedaçõ de código não é um recurso escasso, e portanto não tem porque ser protegida!
+Utilizo o github para armazenar os códigos dos meus projetos pessoais. Não tenho problema algum em deixá-los públicos, pelo contrário adoraria que eles chegassem para mais pessoas ainda. Uma ideia, tal como um pedaço de código, não é um recurso escasso, e portanto não tem porque ser protegida!
 
 
 
@@ -15,7 +15,7 @@ https://github.com/tiagoarodrigues55/github-music
 Na sequência temos alguns repositórios de estudo, onde eu costumo forka-los para analisar melhor depois. Porém caímos no:
 
 # KhanSolver
-Esse foi o motivo pelo qual aprendi a programar. Para quem não conhece o KhanAcademy é um site onde professores podem selecionar exercícios e recomendá-los para os alunos, que devem realizá-los e o próprio khan dá o feedback tanto para o aluno como para o professor. Na minha escola acertar os exercícios do khan vale cerca de 30% da nota de matemática. Porém os exercícios são muito básicos e repetitivos, por conta disso resolvi criar um robô para resolvê-los. Por isso comecei a programar, obviamente no início não consegui resolver meu problema, porém meses depois encontrei uma vulnerabilidade na aplicação deles e criei esse script em js para explorá-la de forma que hoje com 2 clicks consigo resolver todos os meus khans do mês em segundos.
+Esse foi o motivo pelo qual aprendi a programar. Para quem não conhece o KhanAcademy é um site onde professores podem selecionar exercícios e recomendá-los para os alunos, que devem realizá-los e o próprio khan dá o feedback tanto para o aluno como para o professor. Na minha escola acertar os exercícios do khan vale cerca de 30% da nota de matemática. Porém os exercícios são muito básicos e repetitivos, por conta disso resolvi criar um robô para resolvê-los. Por isso comecei a programar, obviamente no início não consegui resolver meu problema, porém meses depois encontrei uma vulnerabilidade na aplicação deles e criei esse script em js para explorá-la, de forma que hoje com 2 clicks consigo resolver todos os meus khans do mês em segundos.
 https://github.com/tiagoarodrigues55/khanSolver
 
 
@@ -32,10 +32,10 @@ https://github.com/tiagoarodrigues55/wallStreetSiv
 
 
 # Mega Hack
-Esse foi o projeto que eu e minha equipe submetemos para o mega hack, hackathon da shawee, onde fomos semifinalistas. A ideia era criar uma forma dos marinheiros manterem contato com seu treinamento mesmo em alto mar onde não tem internet. A ideia consistia em possuir uma máquina rodando em localhost dentro do navio que rotava informações para os usuários, quando o navio atracava ela fazia deploy das informações que coletou dos marinheiros e baixava os novos conteúdos da central.
+Esse foi o projeto que eu e minha equipe submetemos para o mega hack, hackathon da shawee, onde fomos semifinalistas. A ideia era criar uma forma dos marinheiros manterem contato com seu treinamento mesmo em alto mar onde não tem internet. A ideia consistia em possuir uma máquina rodando em localhost dentro do navio que roteava informações para os usuários, quando o navio atracava ela fazia deploy das informações que coletou dos marinheiros e baixava os novos conteúdos da central.
 https://github.com/tiagoarodrigues55/MegaHack
 
-Esse projeto futuramente evoluiu para uma plataforma EAD voltada para a economia de internet no projeto 
+Esse projeto futuramente evoluiu para uma plataforma EAD voltada para a economia de internet do usuário
 # EAD-backend
 Esse é o backend da plataforma EAD que eu e minha equipe estamos desenvolvendo para as crianças de Belford Roxo
 https://github.com/tiagoarodrigues55/EAD-backend
