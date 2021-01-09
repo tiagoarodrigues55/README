@@ -7,6 +7,11 @@ Utilizo o github para armazenar os códigos dos meus projetos pessoais. Não ten
 
 
 Ao analisar os repositórios logo de cara temos:
+
+# Secure-and-private-MarketPlace
+Market place, onde se utiliza blockchain e teoria dos jogos para manter a segurança e privacidade. A ideia é baseada na exchange decentralizada Bisq e o código é inspirado na playlist sobre bitcoin e blockchain com node do Tiago Salem.
+
+
 # GitHub para músicos
 Essa é uma ideia que me surgiu a um tempo, onde eu procurava criar uma rede social para compartilhar músicas e ideias musicais da mesma forma que compartilhamos códigos aqui no github. O projeto ainda está em andamento...
 https://github.com/tiagoarodrigues55/github-music-backend
