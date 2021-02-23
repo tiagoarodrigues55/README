@@ -24,7 +24,7 @@ Esse foi o motivo pelo qual aprendi a programar. Para quem não conhece o KhanAc
 https://github.com/tiagoarodrigues55/khanSolver
 
 # Web-khanSolver
-Esse é meu mais novo projeto que serve basicamente para recolher os dados de possíveis interessados no khanSolver, que é o script que eu desenvolvi para fazer as recomendações do khanacademy.
+Esse é meu mais novo projeto que serve basicamente para recolher os dados de possíveis interessados no khanSolver, que é o script que eu desenvolvi para fazer as recomendações do khanacademy. Essa aplicação foi desenvolvida com next e está rodando em produção na url: https://khansolver.vercel.app/
 https://github.com/tiagoarodrigues55/web-khan-solver
 
 
