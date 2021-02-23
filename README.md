@@ -23,6 +23,10 @@ Na sequência temos alguns repositórios de estudo, onde eu costumo forka-los pa
 Esse foi o motivo pelo qual aprendi a programar. Para quem não conhece o KhanAcademy é um site onde professores podem selecionar exercícios e recomendá-los para os alunos, que devem realizá-los e o próprio khan dá o feedback tanto para o aluno como para o professor. Na minha escola acertar os exercícios do khan vale cerca de 30% da nota de matemática. Porém os exercícios são muito básicos e repetitivos, por conta disso resolvi criar um robô para resolvê-los. Por isso comecei a programar, obviamente no início não consegui resolver meu problema, porém meses depois encontrei uma vulnerabilidade na aplicação deles e criei esse script em js para explorá-la, de forma que hoje com 2 clicks consigo resolver todos os meus khans do mês em segundos.
 https://github.com/tiagoarodrigues55/khanSolver
 
+# Web-khanSolver
+Esse é meu mais novo projeto que serve basicamente para recolher os dados de possíveis interessados no khanSolver, que é o script que eu desenvolvi para fazer as recomendações do khanacademy.
+https://github.com/tiagoarodrigues55/web-khan-solver
+
 
 Mas adiante vemos a 
 
@@ -68,8 +72,6 @@ https://github.com/tiagoarodrigues55/zenvia-hack
 Esse projeto não me cativou muito, mas consistia em um software que tinha acesso à cãmera de um estacionamento e identificava se o carro que estava entrando atingia os níveis de ecologia necessários para obter um desconto, caso sim, o desconto era dado.
 https://github.com/tiagoarodrigues55/Ibm-hackathon
 
-# Web-khanSolver
-Esse é meu mais novo projeto que serve basicamente para recolher os dados de possíveis interessados no khanSolver, que é o script que eu desenvolvi para fazer as recomendações do khanacademy.
-https://github.com/tiagoarodrigues55/web-khan-solver
+
 
 Além desses tem vários projetos de terceiros que eu fui forkando e clonando para aprender e estudar!
