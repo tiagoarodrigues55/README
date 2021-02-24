@@ -27,6 +27,10 @@ https://github.com/tiagoarodrigues55/khanSolver
 Esse é meu mais novo projeto que serve basicamente para recolher os dados de possíveis interessados no khanSolver, que é o script que eu desenvolvi para fazer as recomendações do khanacademy. Essa aplicação foi desenvolvida com next e está rodando em produção na url: https://khansolver.vercel.app/
 https://github.com/tiagoarodrigues55/web-khan-solver
 
+# Pizzas
+Esse é um projeto que eu fiz para um amigo meu que tem uma empresa de entrega de pizza, é basicamente um formulário de pedidos de pizza feito em next e hospedado na url: https://qu4ttromani.vercel.app/
+https://github.com/tiagoarodrigues55/pizzas
+
 
 Mas adiante vemos a 
 
